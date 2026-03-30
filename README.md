@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/main/banner.png" alt="Bruce - Full Stack Web3 Developer" width="100%" />
+  <img src="https://github.com/dev4tech23/dev4tech23/banner.png" alt="Ruslan - Full Stack Web3 Developer" width="100%" />
 </div>
 
 <h2 align="center">🚀 Passionate Full Stack Web3 Developer</h2>
